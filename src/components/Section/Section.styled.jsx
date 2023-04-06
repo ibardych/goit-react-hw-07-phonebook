@@ -1,5 +1,4 @@
 import styled from '@emotion/styled';
-import { colors } from 'constants';
 import { transition } from 'helpers';
 
 export const SectionContainer = styled.section`
